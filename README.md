@@ -21,4 +21,6 @@ This repository is used by me to store the SAR-OPT datasets I use, including the
 | PatchGCL (24 *AAAI*) | 33.90 ± 3.86 | 19.11 ± 1.69 | 175.66 ± 44.78 | 9.31 ± 6.36 | 50.31 ± 3.16 | 11.63 ± 2.04 | 9.28 ± 1.95 |
 | UNSB (24 *ICLR*) | 33.97 ± 1.82 | 19.10 ± 0.44 | 153.68 ± 25.42 | 5.89 ± 2.96 | 51.61 ± 3.21 | 11.64 ± 0.55 | 8.96 ± 0.11 |
 
-## data and checkpoint url
+## dataset url
+Link: https://pan.baidu.com/s/1X97kPnHnK9n5DfoMM_dneg?pwd=qfcm 
+Password: qfcm 
