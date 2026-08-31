@@ -1,6 +1,5 @@
 # SAR-OPT-Dataset
-This repository is used by me to store the SAR-OPT datasets I use, including the specific divisions and download links, as well as the baseline test indicators I provide myself (SSIM/PSNR/RMSE/LIPIS/SAM/FID/KID)
-
+This repository is used by me to store the SAR-OPT datasets I use, including the specific divisions and download links, as well as the baseline test indicators I provide myself (SSIM/PSNR/RMSE/LIPIS/SAM/FID/KID). Each method was trained and tested on three independent random seeds: 42, 43, and 44, with average metrics and standard deviations calculated.
 
 # Comparison on the WHU-900-198 dataset
 
